@@ -1,4 +1,4 @@
-# Copilot — 8 h outline
+# Copilot: 8 h outline
 
 For Microsoft 365 shops. By the end staff can use Copilot inside their daily tools and know where it earns its cost.
 

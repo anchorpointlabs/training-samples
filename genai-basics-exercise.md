@@ -1,8 +1,8 @@
-# GenAI basics — sample exercise: rewriting a client update
+# GenAI basics: sample exercise: rewriting a client update
 
 ## The task
 
-A learner takes a real, slightly messy client update email they wrote (or one provided for practice) and turns it into a clean, factual client update — checking every claim before sending.
+A learner takes a real, slightly messy client update email they wrote (or one provided for practice) and turns it into a clean, factual client update, checking every claim before sending.
 
 ## The exercise (30 min)
 
@@ -16,7 +16,7 @@ A learner takes a real, slightly messy client update email they wrote (or one pr
 
 3. Run the prompt. Then check the output with the check list:
    - Every number and date matches the draft.
-   - Every [CHECK] is a real unsupported claim — discuss each with the trainer.
+   - Every [CHECK] is a real unsupported claim. Discuss each with the trainer.
    - Nothing new was invented.
 4. Fix the output by hand, not by re-prompting. The learner decides the final wording.
 

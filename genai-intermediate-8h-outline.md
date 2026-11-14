@@ -1,4 +1,4 @@
-# GenAI intermediate — 8 h outline
+# GenAI intermediate: 8 h outline
 
 For staff who use the basics and want the output to stop looking generic. By the end they can run a real, recurring work process with an AI reliably.
 

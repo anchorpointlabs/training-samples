@@ -1,8 +1,8 @@
-# Agentic AI — 16 h outline
+# Agentic AI: 16 h outline
 
-Two days. For staff who will work alongside agents, not just chat windows. By the end they can brief an agent, check its work, and spot where an agent belongs — and where it does not.
+Two days. For staff who will work alongside agents, not just chat windows. By the end they can brief an agent, check its work, and spot where an agent belongs, and where it does not.
 
-## Day 1 — What agents are
+## Day 1: What agents are
 
 | Block | Time | What happens |
 |---|---|---|
@@ -12,7 +12,7 @@ Two days. For staff who will work alongside agents, not just chat windows. By th
 | 4. Failure modes | 90 min | Hallucination, drift, loops, overreach. Reading the log of a failed agent run and finding where it went wrong. |
 | 5. Hands-on: brief and run | 90 min | Each learner briefs an agent on a bounded task and runs it, twice. |
 
-## Day 2 — Agents in your company
+## Day 2: Agents in your company
 
 | Block | Time | What happens |
 |---|---|---|

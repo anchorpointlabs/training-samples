@@ -1,4 +1,4 @@
-# Copilot — sample exercise: turn a meeting thread into a task list
+# Copilot: sample exercise: turn a meeting thread into a task list
 
 ## The task
 
@@ -9,7 +9,7 @@ Take a real (or practice) Teams meeting recap and turn it into a clean task list
 1. Open the meeting recap for a meeting that actually happened (or the provided practice recap).
 2. Ask Copilot:
 
-> List every action item from this meeting. For each: the task, the owner as named in the meeting, the due date if one was given, and the sentence from the transcript that supports it. If an action has no owner or no date, say so — do not invent one.
+> List every action item from this meeting. For each: the task, the owner as named in the meeting, the due date if one was given, and the sentence from the transcript that supports it. If an action has no owner or no date, say so. Do not invent one.
 
 3. Check the output line by line:
    - Every owner and date comes from the transcript.

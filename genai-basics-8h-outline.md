@@ -1,4 +1,4 @@
-# GenAI basics — 8 h outline
+# GenAI basics: 8 h outline
 
 For staff who have used ChatGPT casually and never been taught. By the end they can judge when to trust the output and when to check it.
 

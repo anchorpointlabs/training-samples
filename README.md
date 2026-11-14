@@ -2,7 +2,7 @@
 
 Public samples of Anchor Point Labs' training menu: four course outlines, one sample exercise each. The full materials are delivered in training engagements, built on the client's own documents.
 
-No client names, no results, no claims — this is the menu, not the record.
+No client names, no results, no claims. This is the menu, not the record.
 
 ## The menu
 

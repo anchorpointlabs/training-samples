@@ -1,4 +1,4 @@
-# GenAI intermediate — sample exercise: build your team's context file
+# GenAI intermediate: sample exercise: build your team's context file
 
 ## The task
 
@@ -11,10 +11,10 @@ A learner drafts the first version of their team's Anchor File (context file): w
 
 > You are building a context file that a new AI assistant will read before helping my team. From the material below, extract:
 >
-> 1. Identity — who we are and what we do, in two sentences.
-> 2. Products and scope — what we deliver, what we do not.
-> 3. Voice rules — how we write, with three examples of phrases we use and three we never use.
-> 4. Non-negotiables — anything we must never say or claim.
+> 1. Identity: who we are and what we do, in two sentences.
+> 2. Products and scope: what we deliver, what we do not.
+> 3. Voice rules: how we write, with three examples of phrases we use and three we never use.
+> 4. Non-negotiables: anything we must never say or claim.
 >
 > Material:
 > [paste the documents]
